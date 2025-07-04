@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/virajpawar24/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/virajpawar24/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/virajpawar24/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/virajpawar24/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/virajpawar24/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/virajpawar24/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
