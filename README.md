@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/virajpawar24/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/virajpawar24/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/virajpawar24/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/virajpawar24/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/virajpawar24/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/virajpawar24/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/virajpawar24/leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
