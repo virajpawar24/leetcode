@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/virajpawar24/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/virajpawar24/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/virajpawar24/leetcode/tree/master/0812-rotate-string) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/virajpawar24/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3684-substring-matching-pattern](https://github.com/virajpawar24/leetcode/tree/master/3684-substring-matching-pattern) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/virajpawar24/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/virajpawar24/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/virajpawar24/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/virajpawar24/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
 ## Binary Search
 |  |
