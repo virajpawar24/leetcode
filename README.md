@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/virajpawar24/leetcode/tree/master/0812-rotate-string) |
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3684-substring-matching-pattern](https://github.com/virajpawar24/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/virajpawar24/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/virajpawar24/leetcode/tree/master/0812-rotate-string) |
+| [3684-substring-matching-pattern](https://github.com/virajpawar24/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Greedy
 |  |
 | ------- |
