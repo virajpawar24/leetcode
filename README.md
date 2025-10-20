@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/virajpawar24/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/virajpawar24/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/virajpawar24/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/virajpawar24/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -164,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
