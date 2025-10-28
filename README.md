@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/virajpawar24/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/virajpawar24/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/virajpawar24/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/virajpawar24/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
 | ------- |
