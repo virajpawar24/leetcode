@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/virajpawar24/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/virajpawar24/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/virajpawar24/leetcode/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/virajpawar24/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/virajpawar24/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/virajpawar24/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/virajpawar24/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/virajpawar24/leetcode/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/virajpawar24/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/virajpawar24/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/virajpawar24/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/virajpawar24/leetcode/tree/master/0561-array-partition) |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/virajpawar24/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/virajpawar24/leetcode/tree/master/0561-array-partition) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/virajpawar24/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
