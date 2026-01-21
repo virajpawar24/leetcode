@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/virajpawar24/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/virajpawar24/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/virajpawar24/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/virajpawar24/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
