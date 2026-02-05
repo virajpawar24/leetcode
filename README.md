@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/virajpawar24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/virajpawar24/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/virajpawar24/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/virajpawar24/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0977-squares-of-a-sorted-array) |
