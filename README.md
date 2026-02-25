@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/virajpawar24/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/virajpawar24/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/virajpawar24/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/virajpawar24/leetcode/tree/master/0022-generate-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/virajpawar24/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/virajpawar24/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/virajpawar24/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/virajpawar24/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/virajpawar24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/virajpawar24/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajpawar24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
