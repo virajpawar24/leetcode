@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/virajpawar24/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/virajpawar24/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/virajpawar24/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/virajpawar24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/virajpawar24/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/virajpawar24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/virajpawar24/leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/virajpawar24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/virajpawar24/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/virajpawar24/leetcode/tree/master/0724-find-pivot-index) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/virajpawar24/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/virajpawar24/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/virajpawar24/leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/virajpawar24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/virajpawar24/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
