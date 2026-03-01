@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/virajpawar24/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/virajpawar24/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/virajpawar24/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/virajpawar24/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/virajpawar24/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/virajpawar24/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/virajpawar24/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
