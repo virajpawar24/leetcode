@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/virajpawar24/leetcode/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/virajpawar24/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/virajpawar24/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/virajpawar24/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/virajpawar24/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/virajpawar24/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/virajpawar24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/virajpawar24/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/virajpawar24/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
 ## Prefix Sum
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/virajpawar24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/virajpawar24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/virajpawar24/leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/virajpawar24/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/virajpawar24/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Counting Sort
