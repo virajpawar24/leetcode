@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/virajpawar24/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/virajpawar24/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/virajpawar24/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/virajpawar24/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/virajpawar24/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/virajpawar24/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/virajpawar24/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/virajpawar24/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/virajpawar24/leetcode/tree/master/0812-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/virajpawar24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1332-remove-palindromic-subsequences](https://github.com/virajpawar24/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/virajpawar24/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/virajpawar24/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/virajpawar24/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
