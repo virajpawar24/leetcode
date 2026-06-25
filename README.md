@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/virajpawar24/leetcode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/virajpawar24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2485-find-the-pivot-integer](https://github.com/virajpawar24/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/virajpawar24/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/virajpawar24/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/virajpawar24/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/virajpawar24/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Counting Sort
 |  |
 | ------- |
