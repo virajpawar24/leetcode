@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/virajpawar24/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/virajpawar24/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/virajpawar24/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/virajpawar24/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/virajpawar24/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/virajpawar24/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/virajpawar24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/virajpawar24/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/virajpawar24/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/virajpawar24/leetcode/tree/master/2102-find-the-middle-index-in-array) |
