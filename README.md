@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/virajpawar24/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/virajpawar24/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/virajpawar24/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/virajpawar24/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/virajpawar24/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/virajpawar24/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/virajpawar24/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/virajpawar24/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
