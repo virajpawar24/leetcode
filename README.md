@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/virajpawar24/leetcode/tree/master/1873-longest-nice-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/virajpawar24/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/virajpawar24/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/virajpawar24/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/virajpawar24/leetcode/tree/master/3684-substring-matching-pattern) |
 ## Math
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/virajpawar24/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/virajpawar24/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/virajpawar24/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/virajpawar24/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
